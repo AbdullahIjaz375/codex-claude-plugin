@@ -7,9 +7,9 @@
   "plugins": [
     {
       "name": "codex",
-      "source": ".",
+      "source": "./plugin",
       "description": "Skills for interacting with the Codex CRM lead database from Claude Code: add lead, update lead (any field), query leads.",
-      "version": "0.2.0"
+      "version": "0.2.1"
     }
   ]
 }
