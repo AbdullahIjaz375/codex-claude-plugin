@@ -1,0 +1,15 @@
+{
+  "name": "codex-marketplace",
+  "owner": {
+    "name": "Codex",
+    "email": "support@gocodeable.com"
+  },
+  "plugins": [
+    {
+      "name": "codex",
+      "source": ".",
+      "description": "Skills for interacting with the Codex CRM lead database from Claude Code: add lead, update lead (any field), query leads.",
+      "version": "0.2.0"
+    }
+  ]
+}

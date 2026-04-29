@@ -1,0 +1,9 @@
+{
+  "name": "codex",
+  "version": "0.2.0",
+  "description": "Skills for interacting with the Codex CRM lead database from Claude Code.",
+  "author": {
+    "name": "Codex",
+    "email": "support@gocodeable.com"
+  }
+}
